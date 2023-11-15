@@ -8,3 +8,7 @@ You need to install `ghcup` and `cabal` on your computer before running the game
 
 ## How to run
 Clone the project, and type `cabal run game` in a terminal to run the game.
+
+## Snapshot
+![image](https://github.com/wowthecoder/Haskell_tictactoe/assets/82577844/94d3fa3e-fb55-4130-85e8-d6b7c86db993)
+
